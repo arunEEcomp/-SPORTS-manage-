@@ -68,7 +68,9 @@ namespace SPORTS_manage
             if(name.Equals(Uname) && pass.Equals(Upass) )
             {
                 // for login
-                MessageBox.Show("Log In Sucessful");
+                AppBody obj = new AppBody();
+                this.Hide();
+                obj.Show();
             }
             else
             {

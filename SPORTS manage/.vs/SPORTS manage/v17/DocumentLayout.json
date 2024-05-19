@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "Z:\\Sports\\SPORTS manage\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92ED32CE-96CF-4A51-B9BA-A2A537A2CF4C}|SPORTS manage.csproj|z:\\sports\\sports manage\\appbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92ED32CE-96CF-4A51-B9BA-A2A537A2CF4C}|SPORTS manage.csproj|solutionrelative:appbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92ED32CE-96CF-4A51-B9BA-A2A537A2CF4C}|SPORTS manage.csproj|z:\\sports\\sports manage\\appbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92ED32CE-96CF-4A51-B9BA-A2A537A2CF4C}|SPORTS manage.csproj|solutionrelative:appbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92ED32CE-96CF-4A51-B9BA-A2A537A2CF4C}|SPORTS manage.csproj|z:\\sports\\sports manage\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92ED32CE-96CF-4A51-B9BA-A2A537A2CF4C}|SPORTS manage.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppBody.cs",
+              "DocumentMoniker": "Z:\\Sports\\SPORTS manage\\AppBody.cs",
+              "RelativeDocumentMoniker": "AppBody.cs",
+              "ToolTip": "Z:\\Sports\\SPORTS manage\\AppBody.cs",
+              "RelativeToolTip": "AppBody.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:50:36.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppBody.cs [Design]",
+              "DocumentMoniker": "Z:\\Sports\\SPORTS manage\\AppBody.cs",
+              "RelativeDocumentMoniker": "AppBody.cs",
+              "ToolTip": "Z:\\Sports\\SPORTS manage\\AppBody.cs [Design]",
+              "RelativeToolTip": "AppBody.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:37:54.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Login.cs",
               "DocumentMoniker": "Z:\\Sports\\SPORTS manage\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
               "ToolTip": "Z:\\Sports\\SPORTS manage\\Login.cs",
               "RelativeToolTip": "Login.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAADAAAAAJAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T15:53:02.522Z",
               "EditorCaption": ""
