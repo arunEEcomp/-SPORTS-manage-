@@ -8,3 +8,5 @@ Z:\Sports\SPORTS manage\obj\Debug\SPORTS manage.csproj.GenerateResource.cache
 Z:\Sports\SPORTS manage\obj\Debug\SPORTS manage.csproj.CoreCompileInputs.cache
 Z:\Sports\SPORTS manage\obj\Debug\SPORTS manage.exe
 Z:\Sports\SPORTS manage\obj\Debug\SPORTS manage.pdb
+Z:\Sports\SPORTS manage\bin\Debug\Sports Database.mdf
+Z:\Sports\SPORTS manage\bin\Debug\Sports Database_log.ldf
