@@ -11,3 +11,8 @@ Z:\Sports\SPORTS manage\obj\Debug\SPORTS manage.pdb
 Z:\Sports\SPORTS manage\bin\Debug\Sports Database.mdf
 Z:\Sports\SPORTS manage\bin\Debug\Sports Database_log.ldf
 Z:\Sports\SPORTS manage\obj\Debug\SPORTS_manage.AppBody.resources
+Z:\Sports\SPORTS manage\obj\Debug\SPORTS_manage.Borrowers_User_Control.resources
+Z:\Sports\SPORTS manage\obj\Debug\SPORTS_manage.Items_User_Control1.resources
+Z:\Sports\SPORTS manage\obj\Debug\SPORTS_manage.About_User_Control1.resources
+Z:\Sports\SPORTS manage\obj\Debug\SPORTS_manage.Department_User_Control1.resources
+Z:\Sports\SPORTS manage\obj\Debug\SPORTS_manage.Transaction_User_Control1.resources
